@@ -1,6 +1,5 @@
 <script>
   import Bio from "./bio.svelte";
-  // import Footer from "./footer.svelte";
 </script>
 
 <style>
@@ -25,4 +24,3 @@
 </svelte:head>
 
 <Bio />
-<!-- <Footer /> -->

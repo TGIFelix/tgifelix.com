@@ -4,12 +4,12 @@
     width: 100%;
     bottom: 0;
     text-align: center;
-    font-size: 1.5em;
     background-color: #fff;
   }
   li {
     display: inline;
     padding: 0 1em 0;
+    font-size: 1.5em !important;
   }
   a {
     text-decoration: none;
