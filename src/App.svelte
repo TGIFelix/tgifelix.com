@@ -17,8 +17,8 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="" />
-  <meta name="keywords" content="" />
+  <meta name="description" content="Junior Front End Developer" />
+  <meta name="keywords" content="felix, swinkels, webdev, frontend, developer" />
   <meta name="author" content="Felix Swinkels, @_tgifelix" />
   <title>I'm for hire!</title>
 </svelte:head>
