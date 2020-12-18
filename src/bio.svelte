@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    min-height: 100vh;
+    min-height: 99vh;
   }
   p {
     max-width: 50%;
