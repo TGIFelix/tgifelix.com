@@ -20,6 +20,7 @@
   a:visited {
     text-decoration: none;
     background: linear-gradient(var(--gradient));
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
