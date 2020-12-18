@@ -60,7 +60,7 @@
     You can also have a look at the
     <a href="https://github.com/TGIFelix" target="_blank">code</a>
     I've published or learn something new on my
-    <a href="https://blog.tgifelix.com">blog</a>!
+    <a href="https://tgifelix.medium.com/">blog</a>!
   </p>
   <span>🤙</span>
 </main>
