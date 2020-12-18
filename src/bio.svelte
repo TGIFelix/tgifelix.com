@@ -51,7 +51,7 @@
 <main>
   <p>
     Hi I'm Felix, and I'm available for hire! Check out my
-    <a href="https://linkedin.com/in/felixswinkels" target="_blank">LinkedIn</a>
+    <a href="https://linkedin.com/in/felixswinkels" target="_blank">resume</a>
     and let me know if you like what you see!
     <a href="mailto:tgifelix@icloud.com" title="Contact"><i
         class="far fa-envelope" /></a>
