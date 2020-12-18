@@ -39,7 +39,7 @@
   }
   @media screen and (max-width: 800px) {
     p {
-      max-width: 90%;
+      max-width: 100%;
       font-size: 1.5em;
     }
     span {
@@ -50,7 +50,7 @@
 
 <main>
   <p>
-    Hi I'm Felix, and I'm available for hire! Check out my
+    Hi! I'm Felix, and I'm available for hire. Check out my
     <a href="https://linkedin.com/in/felixswinkels" target="_blank">resume</a>
     and let me know if you like what you see!
     <a href="mailto:tgifelix@icloud.com" title="Contact"><i
