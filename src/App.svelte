@@ -11,7 +11,6 @@
   :global(body) {
     background-color: #fff;
     font-family: "Space Mono", monospace;
-    /* overflow: hidden; */
   }
 </style>
 
