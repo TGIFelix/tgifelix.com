@@ -21,7 +21,7 @@
     transition: background-size 0.1s ease-in;
   }
   a:hover {
-    background-size: 100% 69%;
+    background-size: 100% 85%;
   }
   span {
     font-size: 5em;
