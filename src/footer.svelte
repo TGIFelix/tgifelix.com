@@ -29,7 +29,7 @@
 <footer>
   <ul>
     <li>
-      <a href="https://blog.tgifelix.com" title="Blog"><i
+      <a href="https://dev.to/tgifelix" title="Blog"><i
           class="far fa-newspaper" /></a>
     </li>
     <li>
