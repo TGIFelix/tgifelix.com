@@ -9,8 +9,10 @@
     --gradient: 120deg, #eeaeca 0%, #94bbe9 100%;
   }
   :global(body) {
-    background-color: #fff;
-    font-family: "Space Mono", monospace;
+    /* background-color: #fff; */
+    background-image: linear-gradient(45deg, #e5cef0 5.56%, #ffffff 5.56%, #ffffff 50%, #e5cef0 50%, #e5cef0 55.56%, #ffffff 55.56%, #ffffff 100%);
+background-size: 25.46px 25.46px;
+font-family: "Space Mono", monospace;
   }
 </style>
 

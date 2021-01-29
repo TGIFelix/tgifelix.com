@@ -10,6 +10,8 @@
   p {
     max-width: 50%;
     font-size: 2em;
+    background-color: #fff;
+    border: 2px solid #e5cef0;
   }
   a {
     text-decoration: none;
