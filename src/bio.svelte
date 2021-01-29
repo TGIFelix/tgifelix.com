@@ -11,7 +11,7 @@
     max-width: 50%;
     font-size: 2em;
     background-color: #fff;
-    border: 2px solid #e5cef0;
+    /* border: 2px solid #c6b4d8; */
   }
   a {
     text-decoration: none;

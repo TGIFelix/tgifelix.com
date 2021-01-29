@@ -10,9 +10,9 @@
   }
   :global(body) {
     font-family: "Space Mono", monospace;
-    background-image: linear-gradient(45deg, #e5cef0 5.56%, #ffffff 5.56%, #ffffff 50%, #e5cef0 50%, #e5cef0 55.56%, #ffffff 55.56%, #ffffff 100%);
-    background-size: 25.46px 25.46px;
-  }
+    /* background-image: linear-gradient(45deg, #c6b4d8 5%, #ffffff 5%, #ffffff 50%, #c6b4d8 50%, #c6b4d8 55%, #ffffff 55%, #ffffff 100%);
+    background-size: 20.00px 20.00px;   */
+    }
   :global(html, body) {
     margin: 0; height: 100%;
     overflow: hidden;
