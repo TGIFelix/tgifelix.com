@@ -7,7 +7,7 @@ fancyprint () {
 }
 # }}}
 echo""
-fancyprint ${Color} ">> TGIFELIX.COM 🌈"
+fancyprint ${Color} ">> TGIFELIX.COM 🦄"
 # }}}
 PS3='➡ '
 options=("Deploy" "Exit")
