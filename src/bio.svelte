@@ -10,20 +10,17 @@
   p {
     max-width: 50%;
     font-size: 2em;
-    background-color: #fff;
-    /* border: 2px solid #c6b4d8; */
   }
   a {
     text-decoration: none;
-    color: #333;
     background-image: linear-gradient(var(--gradient));
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
-    background-position: 0 85%;
+    background-position: 0 88%;
     transition: background-size 0.1s ease-in;
   }
   a:hover {
-    background-size: 100% 85%;
+    background-size: 100% 33%;
   }
   span {
     font-size: 5em;
@@ -48,6 +45,8 @@
       font-size: 3em;
     }
   }
+ 
+
 </style>
 
 <main>

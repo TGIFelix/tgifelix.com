@@ -8,14 +8,28 @@
   :global(:root) {
     --gradient: 120deg, #eeaeca 0%, #94bbe9 100%;
   }
-  :global(body) {
-    font-family: 'JetBrains Mono', monospace;
-    /* background-image: linear-gradient(45deg, #c6b4d8 5%, #ffffff 5%, #ffffff 50%, #c6b4d8 50%, #c6b4d8 55%, #ffffff 55%, #ffffff 100%);
-    background-size: 20.00px 20.00px;   */
-    }
   :global(html, body) {
+    font-family: 'JetBrains Mono', monospace;
     margin: 0; height: 100%;
     overflow: hidden;
+  }
+  @media (prefers-color-scheme: dark) {
+    :global(body) {
+      background-color: #333;
+      color: #fff;
+    }
+    :global(a, a:active, a:visited) {
+      color: #fff;
+    }
+  }
+  @media (prefers-color-scheme: light) {
+    :global(body) {
+      background-color: #fff;
+      color: #333;
+    }
+    :global(a, a:active, a:visited) {
+      color: #333;
+    }
   }
 </style>
 
