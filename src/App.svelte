@@ -3,13 +3,13 @@
 </script>
 
 <style>
-  @import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
   @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css");
   :global(:root) {
     --gradient: 120deg, #eeaeca 0%, #94bbe9 100%;
   }
   :global(body) {
-    font-family: "Space Mono", monospace;
+    font-family: 'JetBrains Mono', monospace;
     /* background-image: linear-gradient(45deg, #c6b4d8 5%, #ffffff 5%, #ffffff 50%, #c6b4d8 50%, #c6b4d8 55%, #ffffff 55%, #ffffff 100%);
     background-size: 20.00px 20.00px;   */
     }
