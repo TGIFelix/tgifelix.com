@@ -49,17 +49,10 @@
 
 <main>
   <p>
-    Hi! I'm Felix, and I'm available for hire. Check out my
-    <a href="https://linkedin.com/in/felixswinkels" target="_blank">resume</a>
-    and let me know if you like what you see!
-    <a href="mailto:tgifelix@icloud.com" title="Contact"><i
-        class="far fa-envelope" /></a>
+    Hi! I'm Felix, and I'm available for hire. Check out my <a href="https://linkedin.com/in/felixswinkels" target="_blank">resume</a> and let me know if you like what you see! <a href="mailto:tgifelix@icloud.com" title="Contact"><i class="far fa-envelope" /></a>
   </p>
   <p>
-    You can also have a look at the
-    <a href="https://github.com/TGIFelix" target="_blank">code</a>
-    I've published or learn something new on my
-    <a href="https://dev.to/tgifelix" target="_blank">blog</a>!
+    You can also have a look at the <a href="https://github.com/TGIFelix" target="_blank">code</a> I've published or learn something new on my <a href="https://dev.to/tgifelix" target="_blank">blog</a>!
   </p>
   <span>🤙</span>
 </main>
