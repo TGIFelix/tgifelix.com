@@ -4,7 +4,6 @@
     width: 100%;
     bottom: 0;
     text-align: center;
-    background-color: #fff;
   }
   li {
     display: inline;
@@ -13,7 +12,6 @@
   }
   a {
     text-decoration: none;
-    color: #333;
   }
   a:hover,
   a:active,
