@@ -2,7 +2,6 @@
 /public/build/
 .DS_Store
 .vscode
-# *.sh
-
-# Local Netlify folder
 .netlify
+.vercel
+netlify.toml
