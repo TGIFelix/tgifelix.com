@@ -16,7 +16,7 @@
     background-image: linear-gradient(var(--gradient));
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
-    background-position: 0 88%;
+    background-position: 0 85%;
     transition: background-size 0.1s ease-in;
   }
   a:hover {
