@@ -1,0 +1,115 @@
+### .zshrc:
+# source $HOME/.aliases
+
+### .bashrc:
+# if [ -f ~/.aliases ]; then
+# . ~/.aliases
+# fi
+
+### GENERAL
+alias l='ls -lhAG'
+alias ls='ls -AG'
+alias tram='tree -a | more'
+alias _='sudo'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias config='vim ${HOME}/.zshrc'
+alias aliases='vim ${HOME}/.aliases'
+alias zshrc='vim ${HOME}/.zshrc'
+alias bashrc='vim ${HOME}/.bashrc'
+alias vimrc='vim ${HOME}/.vimrc'
+alias debian='vim ${HOME}/.debian'
+alias macos='vim ${HOME}/.macos'
+alias reload='clear && zsh'
+alias pi='ssh w@rpi.local'
+alias c='clear'
+alias x='exit'
+alias nuke='rm -rf'
+alias wd='cd ${HOME}/Documents/webdev'
+alias scs='cd $HOME/Documents/webdev/shortcutspace'
+alias tgif='cd $HOME/Documents/webdev/tgifelix'
+alias dotfiles='cd $HOME/dotfiles'
+alias dotbackup='bash $HOME/dotfiles/scripts/backup.sh'
+alias dotupdate='bash $HOME/dotfiles/scripts/update.sh'
+alias dotnuke='bash $HOME/dotfiles/scripts/uninstall.sh'
+alias em='emacs'
+alias vim='nvim'
+
+### GIT
+alias gs='git status'
+alias gc='git commit -m'
+alias gca='git commit -am'
+alias ga='git add'
+alias gp='git push'
+alias gaa='git add .'
+alias ghg='gh gist'
+alias ghrc='gh repo clone'
+
+### MACOS
+alias remoteon='sudo systemsetup -setremotelogin on'
+alias remoteoff='sudo systemsetup -setremotelogin off'
+
+### LINUX
+alias upup='sudo apt update && sudo apt upgrade -y'
+alias reboot='sudo reboot'
+alias halt='sudo halt'
+alias w1up='sudo airmon-ng start wlan1'
+alias w1down='sudo airmon-ng stop wlan1mon'
+
+### BREW
+alias bubu='brew update && brew upgrade && brew outdated && brew cleanup'
+alias bs='brew search'
+alias bi='brew install'
+alias bci='brew install --cask'
+alias binf='brew info'
+
+### DOCKER
+alias docps='docker ps'
+alias docimg='docker images'
+alias docalias='alias | grep "docker"'
+alias docrun='docker run -d -t'
+alias docexe='docker exec -i -t'
+alias parsec='docker run --rm -ti --network host -v $PWD/work:/work parrotsec/security'
+alias docset='docker run --rm -ti --network host -v $PWD/set:/root/.set parrotsec/tools-set'
+alias bettercap='docker run --rm -it --privileged --net=host bettercap/bettercap'
+alias spacevim='docker run -it --rm spacevim/spacevim nvim'
+
+### BUILD AND DEPLOY
+alias nd='npm run dev'
+alias nb='npm run build'
+alias n='netlify'
+alias yd='yarn dev'
+alias yb='yarn build'
+alias yi='yarn install'
+alias svelte='npx degit sveltejs/template'
+alias sapper='npx degit "sveltejs/sapper-template#webpack"'
+
+### TMUX
+alias t='tmux -u'
+alias tls='tmux ls'
+alias t0='tmux attach -t 0'
+alias t1='tmux attach -t 1'
+alias t2='tmux attach -t 2'
+alias t3='tmux attach -t 3'
+alias t4='tmux attach -t 4'
+
+### VNC
+alias vncipad='vncserver -geometry 2388x1668'
+alias vncmb='vncserver -geometry 2800x1600'
+alias vnckill1='vncserver -kill :1'
+alias vnckill2='vncserver -kill :2'
+
+### APT
+alias sas='sudo apt search'
+alias sai='sudo apt install'
+alias sainf='sudo apt info'
+
+### CTF
+alias htp='sudo airmon-ng start wlan1 && kismet -c wlan1mon'
+alias ftn='sudo airmon-ng start wlan1 && sudo wifite --clients-only --dict rockyou.txt'
+alias aw1='sudo airmon-ng start wlan1 && sudo airodump-ng wlan1mon'
+alias bw1='sudo bettercap --iface wlan1'
+alias kw1='kismet -c wlan1mon'
+alias rockyou='sudo aircrack-ng wpa.cap -w rockyou.txt'
+alias ohfuck='sudo airmon-ng start wlan1 && sudo besside-ng wlan1mon'
