@@ -1,0 +1,18 @@
+### Theme; geometry
+# source $HOME/.zsh/geometry/geometry.zsh
+
+### Theme;pure
+# fpath+=$HOME/.zsh/pure
+# autoload -U promptinit; promptinit
+# prompt pure
+
+### Theme;typewritten
+fpath+=$HOME/.zsh/typewritten
+autoload -U promptinit; promptinit
+prompt typewritten
+export TYPEWRITTEN_PROMPT_LAYOUT="singleline"
+export TYPEWRITTEN_RELATIVE_PATH="adaptive"
+
+### Plugins
+# source $HOME/.zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source $HOME/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

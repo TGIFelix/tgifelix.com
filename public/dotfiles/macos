@@ -1,0 +1,18 @@
+### Theme; geometry
+source $HOME/.zsh/geometry/geometry.zsh
+# GEOMETRY_STATUS_SYMBOL=""
+# GEOMETRY_STATUS_SYMBOL_ERROR=""
+
+### Theme;pure
+# fpath+=$HOME/.zsh/pure
+# autoload -U promptinit; promptinit
+# prompt pure
+
+### Theme;typewritten
+# fpath+=$HOME/.zsh/typewritten
+# autoload -U promptinit; promptinit
+# prompt typewritten
+
+### Plugins
+source $HOME/.zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source $HOME/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
