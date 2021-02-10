@@ -5,10 +5,12 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&display=swap');
   @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css");
 
   :global(html, body) {
-    font-family: 'JetBrains Mono', monospace;
+    /* font-family: 'JetBrains Mono', monospace; */
+    font-family: 'IBM Plex Mono', monospace;
     margin: 0; height: 100%;
     overflow: hidden;
   }
