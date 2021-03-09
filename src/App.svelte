@@ -14,7 +14,7 @@
   }
   @media (prefers-color-scheme: dark) {
     :global(:root) {
-    --gradient: 120deg, #ee6da5 0%, #559ae9 100%;
+    --gradient: 120deg, #944e6c 0%, #559ae9 100%;
   }
     :global(body) {
       background-color: #333;
