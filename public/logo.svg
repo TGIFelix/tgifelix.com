@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(59.000000, 6.000000)">
+            <g id="Group-2" transform="translate(42.000000, 96.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="15">
+                <path d="M305.733226,0.266774355 L0.266774355,305.733226" id="Line"></path>
+                <path d="M0.266774355,0.266774355 L308.507619,308.507619" id="Line"></path>
+            </g>
+            <text id="F" font-family="IBMPlexMono, IBM Plex Mono" font-size="150" font-weight="normal" letter-spacing="-6.66666" fill="#FFFFFF">
+                <tspan x="154.33333" y="154">F</tspan>
+            </text>
+            <text id="E" font-family="IBMPlexMono, IBM Plex Mono" font-size="150" font-weight="normal" letter-spacing="-6.66666" fill="#FFFFFF">
+                <tspan x="309.33333" y="298">E</tspan>
+            </text>
+            <text id="L" font-family="IBMPlexMono, IBM Plex Mono" font-size="150" font-weight="normal" letter-spacing="-6.66666" fill="#FFFFFF">
+                <tspan x="153.33333" y="459">L</tspan>
+            </text>
+            <text id="I" font-family="IBMPlexMono, IBM Plex Mono" font-size="150" font-weight="normal" letter-spacing="-6.66666" fill="#FFFFFF">
+                <tspan x="0.33333" y="298">I</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
