@@ -1,8 +1,3 @@
-<script>
-
-import { title } from "process";
-
-</script>
 <style>
   main {
     display: flex;
