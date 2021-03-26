@@ -1,3 +1,24 @@
+<footer>
+  <ul>
+    <li>
+      <a href="https://dev.to/tgifelix" title="Blog"><i
+          class="far fa-newspaper" /></a>
+    </li>
+    <li>
+      <a href="https://linkedin.com/in/felixswinkels" title="Resume"><i
+          class="far fa-file-alt" /></a>
+    </li>
+    <li>
+      <a href="https://github.com/TGIFelix" title="Code"><i
+          class="fas fa-laptop-code" /></a>
+    </li>
+    <li>
+      <a href="mailto:tgifelix@icloud.com" title="Contact"><i
+          class="far fa-envelope" /></a>
+    </li>
+  </ul>
+</footer>
+
 <style>
   footer {
     position: fixed;
@@ -23,24 +44,3 @@
     -webkit-text-fill-color: transparent;
   }
 </style>
-
-<footer>
-  <ul>
-    <li>
-      <a href="https://dev.to/tgifelix" title="Blog"><i
-          class="far fa-newspaper" /></a>
-    </li>
-    <li>
-      <a href="https://linkedin.com/in/felixswinkels" title="Resume"><i
-          class="far fa-file-alt" /></a>
-    </li>
-    <li>
-      <a href="https://github.com/TGIFelix" title="Code"><i
-          class="fas fa-laptop-code" /></a>
-    </li>
-    <li>
-      <a href="mailto:tgifelix@icloud.com" title="Contact"><i
-          class="far fa-envelope" /></a>
-    </li>
-  </ul>
-</footer>
